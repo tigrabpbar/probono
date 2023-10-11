@@ -1,4 +1,6 @@
---primary-select-color: #021e4b;
+body {
+  --primary-select-color: #021e4b;
   --secondary-select-color: #9bcbd4;
   --primary-button-bg-color: #021e4b;
   --primary-button-bg-hover-color: #bb9d5f;
+}
